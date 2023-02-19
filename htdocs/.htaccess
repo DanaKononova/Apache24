@@ -1,0 +1,4 @@
+ErrorDocument 404 /404error.html
+<Files "403error.html">
+Redirect 403 /
+</Files>
